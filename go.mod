@@ -1,4 +1,4 @@
-module github.com/deepaksighkushwah/bookstore-utils-api
+module github.com/deepaksinghkushwah/bookstore-utils-api
 
 go 1.15
 
